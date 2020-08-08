@@ -1,0 +1,45 @@
+body
+{
+  font-family: sans-serif;
+    background: url(apple-blank-business-computer-442574.jpg) no-repeat;
+    text-align: center;
+    background-size: cover;
+      background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+        margin-top: 250px;
+        margin-bottom: 000;
+margin-right: 0000;
+margin-left: 10px;
+
+
+}
+#uid{
+   border-radius: 4px;
+    border-radius: 13px;
+background-color: #0bf9d7;
+padding: 3px;
+width: 226px;
+    
+}
+.Sign In{
+ position: absolute;
+}
+#password{
+       border-radius: 4px;
+    border-radius: 13px;
+background-color: #0bf9d7;
+padding: 3px;
+width: 226px;
+}
+input[type=submit]:hover{
+background-color:aqua;
+    color:black;
+
+}
+input[type=submit]{
+ padding: 5px 40px;
+background-color:red;
+   
+      border-radius: 25px;
+}
